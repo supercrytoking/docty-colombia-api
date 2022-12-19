@@ -1,0 +1,90 @@
+{
+  "env": {
+    "es6": true,
+    "node": true
+  },
+  "extends": "eslint:recommended",
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "ecmaVersion": 8,
+    "sourceType": "module"
+  },
+  "rules": {
+    "indent": [
+      "off",
+      4,
+      {
+        "FunctionDeclaration": {
+          "parameters": "first"
+        },
+        "FunctionExpression": {
+          "parameters": "first"
+        },
+        "SwitchCase": 1
+      }
+    ],
+    "max-len": [
+      "error",
+      {
+        "code": 1000
+      }
+    ],
+    "quotes": [
+      "off",
+      "single"
+    ],
+    "semi": [
+      "warn",
+      "always"
+    ],
+    "no-unused-vars": [
+      "off",
+      {
+        "args": "after-used",
+        "argsIgnorePattern": "^next$"
+      }
+    ],
+    "comma-dangle": [
+      "off",
+      "always-multiline"
+    ],
+    "arrow-parens": [
+      0,
+      "as-needed",
+      {
+        "requireForBlockBody": true
+      }
+    ],
+    "eol-last": [
+      "off",
+      "always"
+    ],
+    "no-multiple-empty-lines": [
+      "off",
+      {
+        "max": 1,
+        "maxEOF": 0
+      }
+    ],
+    "prefer-const": "off",
+    "no-var": "off",
+    "prefer-arrow-callback": [
+      "off"
+    ],
+    "object-curly-spacing": [
+      "off",
+      "always"
+    ],
+    "camelcase": "off",
+    "eqeqeq": "off",
+    "no-console": "off",
+    "no-control-regex": 0,
+    "no-useless-escape": 0,
+    "no-constant-condition": "off",
+    "no-extra-boolean-cast": "off",
+    "no-empty": "off",
+    "no-redeclare": "off",
+    "no-self-assign": "off",
+    "no-async-promise-executor": "off"
+  }
+}

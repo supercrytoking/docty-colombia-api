@@ -1,0 +1,5 @@
+version: 1
+cron: 
+  - name: "familyMigrate"
+    url: "/cron/familyMigrate"
+    schedule: "*/10 * * * *"

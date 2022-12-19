@@ -1,0 +1,34 @@
+{
+    "vidyoKey": "937d32a519564fd099e44614ebdf363d",
+    "vidyoId": "95b100.vidyo.io",
+    "vidyoDefaultDuration": 1800,
+    "fcmServerKey": "AAAALDMUo4Q:APA91bHcTYpy_7N2pCIuLwYA-y6UPXxV3B0MWFwD-jipSUvz4P0kIL4AXpuvyzGgbxCy680Ip2T1CApxinGDp-65t6VWYXdXS19cDNFcPfrl3Z7hjOTwwWr4ZxflhHh6Qpz9Je2rU9dn",
+    "reverseRelation": {
+        "MALE": {
+            "FATHER": "SON",
+            "MOTHER": "SON",
+            "SISTER": "BROTHER",
+            "BROTHER": "BROTHER",
+            "GRANDMOTHER": "GRANDSON",
+            "GRANDFATHER": "GRANDSON",
+            "DOUGHTER": "FATHER",
+            "SON": "FATHER",
+            "WIFE": "HUSBAND",
+            "HUSBAND": "WIFE",
+            "PARTNER": "PARTNER"
+        },
+        "FEMALE": {
+            "FATHER": "DOUGHTER",
+            "MOTHER": "DOUGHTER",
+            "SISTER": "SISTER",
+            "BROTHER": "SISTER",
+            "GRANDMOTHER": "GRANDDOUGHTER",
+            "GRANDFATHER": "GRANDDOUGHTER",
+            "DOUGHTER": "MOTHER",
+            "SON": "MOTHER",
+            "WIFE": "HUSBAND",
+            "HUSBAND": "WIFE",
+            "PARTNER": "PARTNER"
+        }
+    }
+}

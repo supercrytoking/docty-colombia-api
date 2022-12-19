@@ -1,0 +1,80 @@
+{
+    "mysqlConfig": {
+        "define": {
+            "charset": "utf8",
+            "collate": "utf8_general_ci"
+        },
+        "charset": "utf8",
+        "collate": "utf8_general_ci",
+        "dialect": "mysql",
+        "port": 3306,
+        "logging": false,
+        "database": "docty-test",
+        "replication": {
+            "read": [
+                {
+                    "host": "127.0.0.1",
+                    "username": "root",
+                    "password": ""
+                }
+            ],
+            "write": {
+                "host": "127.0.0.1",
+                "username": "root",
+                "password": ""
+            }
+        },
+        "pool": {
+            "max": 20,
+            "idle": 30000
+        }
+    },
+    "domains": {
+        "patient": "https://patientpreprod.docty.ai",
+        "doctor": "https://doctorpreprod.docty.ai",
+        "clinic": "https://clinicpreprod.docty.ai",
+        "monitor": "https://monitorpreprod.docty.ai",
+        "nurse": "https://nursepreprod.docty.ai",
+        "corporate": "https://corporatepreprod.docty.ai"
+    },
+    "basePath": "https://todonetworks.com:3002/",
+    "client_url": "https://todonetworks.com",
+    "baseDomain": "todonetworks.com",
+    "support_email": "admin@docty.ai",
+    "ses_config": {
+        "apiVersion": "2010-12-01", 
+        "accessKeyId": "accessKeyId ",
+        "secretAccessKey": "secretAccessKey",
+        "region": "region"
+    },
+    "socket_server_url": "http://127.0.0.1:3004",
+    "openpay": {
+        "mode": true,
+        "merchantId": "mrsmhzijucw0rm5pywga",
+        "privateKey": "sk_9808c07316f94edbbcfce63899c30b04"
+    },
+    "twilio":{
+        "accountSid": "twilioSid",
+        "authToken": "twilioAuthToken",
+        "twilioPhoneNumber": "twilioPhoneNumber"
+    },
+    "awsCred": {
+        "accessKeyId": "accessKeyId",
+        "secretAccessKey": "secretAccessKey",
+        "region": "us-east-2"
+    },
+    "awsBucket": "bucket name",
+    "infermedicHeaders": {
+        "App-Id": "api  id",
+        "App-Key": "api key",
+        "Host": "api.infermedica.com",
+        "Model": "infermedica-en"
+    },
+   "jotform": {
+        "DropboxPath": "/docty jotform",
+        "accessToken": "token"
+    },
+    "rebrandly":{
+        "apikey": "KEY"
+    }
+}

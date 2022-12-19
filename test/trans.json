@@ -1,0 +1,784 @@
+[ 
+{ 
+"id":3610,
+"keyword":"ACTIVEUSERS",
+"section":"WELLNESS_WEB",
+"en":"Active users ",
+"es":"Usuarios activos",
+"createdAt":"2022-01-11 06:50:52",
+"updatedAt":"2022-01-11 06:50:52"
+},
+{ 
+"id":3751,
+"keyword":"GENDER",
+"section":"WELLNESS_WEB",
+"en":"Gender",
+"es":"Gender",
+"createdAt":"2022-02-16 12:55:48",
+"updatedAt":"2022-02-16 12:55:48"
+},
+{ 
+"id":3752,
+"keyword":"GOOD",
+"section":"WELLNESS_WEB",
+"en":"Good",
+"es":"Good",
+"createdAt":"2022-02-16 13:01:02",
+"updatedAt":"2022-02-16 13:01:02"
+},
+{ 
+"id":3753,
+"keyword":"BP_DATA_LEBEL",
+"section":"WELLNESS_WEB",
+"en":"Blood Pressure",
+"es":"Bp",
+"createdAt":"2022-02-16 14:17:45",
+"updatedAt":"2022-02-16 14:17:45"
+},
+{ 
+"id":3754,
+"keyword":"MIN",
+"section":"WELLNESS_WEB",
+"en":"Min",
+"es":"Min",
+"createdAt":"2022-02-16 14:22:51",
+"updatedAt":"2022-02-16 14:22:51"
+},
+{ 
+"id":3755,
+"keyword":"ALL",
+"section":"WELLNESS_WEB",
+"en":"All",
+"es":"All",
+"createdAt":"2022-02-16 14:27:50",
+"updatedAt":"2022-02-16 14:27:50"
+},
+{ 
+"id":3757,
+"keyword":"SELECT_DEVICE",
+"section":"WELLNESS_WEB",
+"en":"Select Device",
+"es":"Escoger Dispositivo",
+"createdAt":"2022-02-16 20:01:53",
+"updatedAt":"2022-02-16 20:01:53"
+},
+{ 
+"id":3758,
+"keyword":"SELECT_CLINIC",
+"section":"WELLNESS_WEB",
+"en":"Select Clinic",
+"es":"Seleccionar Clinica",
+"createdAt":"2022-02-16 20:03:50",
+"updatedAt":"2022-02-16 20:03:50"
+},
+{ 
+"id":3759,
+"keyword":"START_DATE",
+"section":"WELLNESS_WEB",
+"en":"Start",
+"es":"Inicio",
+"createdAt":"2022-02-16 20:04:19",
+"updatedAt":"2022-02-16 20:04:19"
+},
+{ 
+"id":3760,
+"keyword":"END_DATE",
+"section":"WELLNESS_WEB",
+"en":"End",
+"es":"Hasta",
+"createdAt":"2022-02-16 20:04:33",
+"updatedAt":"2022-02-16 20:04:33"
+},
+{ 
+"id":3761,
+"keyword":"HR_DATA_LEBEL",
+"section":"WELLNESS_WEB",
+"en":"Heart Rate",
+"es":"Ritmo Cardiaco",
+"createdAt":"2022-02-16 20:06:12",
+"updatedAt":"2022-02-16 20:06:12"
+},
+{ 
+"id":3762,
+"keyword":"BLOOD_PRESSURE",
+"section":"WELLNESS_WEB",
+"en":"Blood Pressure",
+"es":"Presión Sanguínea",
+"createdAt":"2022-02-16 20:06:41",
+"updatedAt":"2022-02-16 20:06:42"
+},
+{ 
+"id":3763,
+"keyword":"SLEEP_DATA_LEBEL",
+"section":"WELLNESS_WEB",
+"en":"Sleep Analysis",
+"es":"Análisis de Sueño",
+"createdAt":"2022-02-16 20:08:11",
+"updatedAt":"2022-02-16 20:08:11"
+},
+{ 
+"id":3764,
+"keyword":"STEPS_DATA_LEBEL",
+"section":"WELLNESS_WEB",
+"en":"Steps",
+"es":"Pasos",
+"createdAt":"2022-02-16 20:08:40",
+"updatedAt":"2022-02-16 20:08:40"
+},
+{ 
+"id":3765,
+"keyword":"SPO_DATA_LEBEL",
+"section":"WELLNESS_WEB",
+"en":"SpO2",
+"es":"SpO2",
+"createdAt":"2022-02-16 20:09:37",
+"updatedAt":"2022-02-16 20:09:37"
+},
+{ 
+"id":3766,
+"keyword":"SPO2_DATA_LEBEL",
+"section":"WELLNESS_WEB",
+"en":"SpO2",
+"es":"SpO2",
+"createdAt":"2022-02-16 20:10:03",
+"updatedAt":"2022-02-16 20:10:03"
+},
+{ 
+"id":3767,
+"keyword":"BT_DATA_LEVEL",
+"section":"WELLNESS_WEB",
+"en":"Temperature",
+"es":"Temperatura",
+"createdAt":"2022-02-16 20:10:32",
+"updatedAt":"2022-02-16 20:10:32"
+},
+{ 
+"id":3768,
+"keyword":"BT_DATA_LEBEL",
+"section":"WELLNESS_WEB",
+"en":"Temperature",
+"es":"Temperatura",
+"createdAt":"2022-02-16 20:10:48",
+"updatedAt":"2022-02-16 20:10:48"
+},
+{ 
+"id":3769,
+"keyword":"BMI_DATA_LEBEL",
+"section":"WELLNESS_WEB",
+"en":"BMI",
+"es":"IMC",
+"createdAt":"2022-02-16 20:11:12",
+"updatedAt":"2022-02-16 20:11:12"
+},
+{ 
+"id":3770,
+"keyword":"CHRONIC_DATA_LEBEL",
+"section":"WELLNESS_WEB",
+"en":"Chronic Conditions",
+"es":"Condiciones Crónicas",
+"createdAt":"2022-02-16 20:11:49",
+"updatedAt":"2022-02-16 20:11:49"
+},
+{ 
+"id":3771,
+"keyword":"HR_DATA",
+"section":"WELLNESS_WEB",
+"en":"Heart Rate",
+"es":"Ritmo Cardiaco",
+"createdAt":"2022-02-16 20:14:00",
+"updatedAt":"2022-02-16 20:14:00"
+},
+{ 
+"id":3772,
+"keyword":"SLEEP_DATA",
+"section":"WELLNESS_WEB",
+"en":"Sleep Analysis",
+"es":"Análisis de Sueño",
+"createdAt":"2022-02-16 20:14:28",
+"updatedAt":"2022-02-16 20:14:28"
+},
+{ 
+"id":3773,
+"keyword":"BP_DATA",
+"section":"WELLNESS_WEB",
+"en":"Blood Pressure",
+"es":"Presión Sanguínea",
+"createdAt":"2022-02-16 20:14:43",
+"updatedAt":"2022-02-16 20:14:43"
+},
+{ 
+"id":3774,
+"keyword":"BT_DATA",
+"section":"WELLNESS_WEB",
+"en":"Temperature",
+"es":"Temperatura",
+"createdAt":"2022-02-16 20:15:03",
+"updatedAt":"2022-02-16 20:15:03"
+},
+{ 
+"id":3775,
+"keyword":"SPO2_DATA",
+"section":"WELLNESS_WEB",
+"en":"SpO2",
+"es":"SpO2",
+"createdAt":"2022-02-16 20:15:24",
+"updatedAt":"2022-02-16 20:15:24"
+},
+{ 
+"id":3776,
+"keyword":"BMI_DATA",
+"section":"WELLNESS_WEB",
+"en":"BMI",
+"es":"IMC",
+"createdAt":"2022-02-16 20:15:41",
+"updatedAt":"2022-02-16 20:15:41"
+},
+{ 
+"id":3777,
+"keyword":"CHRONIC_CONDITION",
+"section":"WELLNESS_WEB",
+"en":"Chronic Conditions",
+"es":"Condiciones Crónicas",
+"createdAt":"2022-02-16 20:16:06",
+"updatedAt":"2022-02-16 20:16:06"
+},
+{ 
+"id":3778,
+"keyword":"STEPS_DATA",
+"section":"WELLNESS_WEB",
+"en":"Steps",
+"es":"Pasos",
+"createdAt":"2022-02-16 20:17:19",
+"updatedAt":"2022-02-16 20:17:19"
+},
+{ 
+"id":3779,
+"keyword":"EMERGANCY_INFO",
+"section":"WELLNESS_WEB",
+"en":"Emergency Contact",
+"es":"Contacto Emergencia",
+"createdAt":"2022-02-16 20:18:07",
+"updatedAt":"2022-02-16 20:18:07"
+},
+{ 
+"id":3780,
+"keyword":"PHONE_NO",
+"section":"WELLNESS_WEB",
+"en":"Phone",
+"es":"Teléfono",
+"createdAt":"2022-02-16 20:26:25",
+"updatedAt":"2022-02-16 20:26:25"
+},
+{ 
+"id":3781,
+"keyword":"FORCE_SYNC",
+"section":"WELLNESS_WEB",
+"en":"Sync",
+"es":"Syncronizar",
+"createdAt":"2022-02-16 20:27:13",
+"updatedAt":"2022-02-16 20:27:13"
+},
+{ 
+"id":3782,
+"keyword":"ENGAGE",
+"section":"WELLNESS_WEB",
+"en":"Engage",
+"es":"Conectar",
+"createdAt":"2022-02-16 20:27:31",
+"updatedAt":"2022-02-16 20:27:31"
+},
+{ 
+"id":3783,
+"keyword":"MENU_HEALTH_360",
+"section":"WELLNESS_WEB",
+"en":"Telemetry",
+"es":"Telemetría",
+"createdAt":"2022-02-16 20:28:47",
+"updatedAt":"2022-02-16 20:28:47"
+},
+{ 
+"id":3784,
+"keyword":"MENU_STEPS",
+"section":"WELLNESS_WEB",
+"en":"Steps",
+"es":"Pasos",
+"createdAt":"2022-02-16 20:30:05",
+"updatedAt":"2022-02-16 20:30:05"
+},
+{ 
+"id":3785,
+"keyword":"DATE",
+"section":"WELLNESS_WEB",
+"en":"Date",
+"es":"Fecha",
+"createdAt":"2022-02-16 20:39:02",
+"updatedAt":"2022-02-16 20:39:02"
+},
+{ 
+"id":3786,
+"keyword":"DEVICE",
+"section":"WELLNESS_WEB",
+"en":"Device",
+"es":"Dispositivo",
+"createdAt":"2022-02-16 20:39:18",
+"updatedAt":"2022-02-16 20:39:18"
+},
+{ 
+"id":3787,
+"keyword":"SYNC_TIME",
+"section":"WELLNESS_WEB",
+"en":"Sync Time",
+"es":"Fecha Sincronización",
+"createdAt":"2022-02-16 20:39:52",
+"updatedAt":"2022-02-16 20:39:52"
+},
+{ 
+"id":3788,
+"keyword":"GOAL_WALKED",
+"section":"WELLNESS_WEB",
+"en":"Steps Count",
+"es":"Pasos Contados",
+"createdAt":"2022-02-16 20:40:34",
+"updatedAt":"2022-02-16 20:40:34"
+},
+{ 
+"id":3789,
+"keyword":"MENU_HR",
+"section":"WELLNESS_WEB",
+"en":"Heart Rate",
+"es":"Ritmo Cardiaco",
+"createdAt":"2022-02-16 20:41:03",
+"updatedAt":"2022-02-16 20:41:03"
+},
+{ 
+"id":3790,
+"keyword":"MENU_BP",
+"section":"WELLNESS_WEB",
+"en":"Blood Pressure",
+"es":"Presión Sanguínea",
+"createdAt":"2022-02-16 20:41:23",
+"updatedAt":"2022-02-16 20:41:23"
+},
+{ 
+"id":3791,
+"keyword":"MENU_SLEEP",
+"section":"WELLNESS_WEB",
+"en":"Sleep",
+"es":"Sueño",
+"createdAt":"2022-02-16 20:41:56",
+"updatedAt":"2022-02-16 20:41:56"
+},
+{ 
+"id":3792,
+"keyword":"MENU_BT",
+"section":"WELLNESS_WEB",
+"en":"Temperature",
+"es":"Temperatura",
+"createdAt":"2022-02-16 20:42:16",
+"updatedAt":"2022-02-16 20:42:16"
+},
+{ 
+"id":3793,
+"keyword":"MENU_BMI",
+"section":"WELLNESS_WEB",
+"en":"BMI",
+"es":"IMC",
+"createdAt":"2022-02-16 20:42:38",
+"updatedAt":"2022-02-16 20:42:38"
+},
+{ 
+"id":3794,
+"keyword":"MENU_CHRONIC",
+"section":"WELLNESS_WEB",
+"en":"C. Conditions",
+"es":"C. Crónicas",
+"createdAt":"2022-02-16 20:43:09",
+"updatedAt":"2022-02-16 20:43:09"
+},
+{ 
+"id":3795,
+"keyword":"MENU_SPO2",
+"section":"WELLNESS_WEB",
+"en":"SpO2",
+"es":"SpO2",
+"createdAt":"2022-02-16 20:43:29",
+"updatedAt":"2022-02-16 20:43:29"
+},
+{ 
+"id":3796,
+"keyword":"BMI_OVER_WEIGHT",
+"section":"WELLNESS_WEB",
+"en":"Overweight",
+"es":"Sobrepeso",
+"createdAt":"2022-02-16 20:43:53",
+"updatedAt":"2022-02-16 20:43:53"
+},
+{ 
+"id":3797,
+"keyword":"SPO2_VALUE",
+"section":"WELLNESS_WEB",
+"en":"Value",
+"es":"Valor",
+"createdAt":"2022-02-16 20:45:12",
+"updatedAt":"2022-02-16 20:45:12"
+},
+{ 
+"id":3798,
+"keyword":"BMI",
+"section":"WELLNESS_WEB",
+"en":"BMI",
+"es":"IMC",
+"createdAt":"2022-02-16 20:45:47",
+"updatedAt":"2022-02-16 20:45:47"
+},
+{ 
+"id":3799,
+"keyword":"STATUS",
+"section":"WELLNESS_WEB",
+"en":"Status",
+"es":"Estado",
+"createdAt":"2022-02-16 20:46:04",
+"updatedAt":"2022-02-16 20:46:04"
+},
+{ 
+"id":3800,
+"keyword":"CONDITION",
+"section":"WELLNESS_WEB",
+"en":"C. Condition",
+"es":"C. Crónica",
+"createdAt":"2022-02-16 20:46:30",
+"updatedAt":"2022-02-16 20:46:30"
+},
+{ 
+"id":3801,
+"keyword":"ADDED_BY",
+"section":"WELLNESS_WEB",
+"en":"Added By",
+"es":"Adicionada Por",
+"createdAt":"2022-02-16 20:46:46",
+"updatedAt":"2022-02-16 20:46:46"
+},
+{ 
+"id":3802,
+"keyword":"CHRONIC_DATA",
+"section":"WELLNESS_WEB",
+"en":"Chronic Conditions",
+"es":"Condiciones Crónicas",
+"createdAt":"2022-02-16 20:47:15",
+"updatedAt":"2022-02-16 20:47:15"
+},
+{ 
+"id":3803,
+"keyword":"TEMP_VALUE",
+"section":"WELLNESS_WEB",
+"en":"Value",
+"es":"Valor",
+"createdAt":"2022-02-16 20:47:43",
+"updatedAt":"2022-02-16 20:47:43"
+},
+{ 
+"id":3804,
+"keyword":"AWAKE",
+"section":"WELLNESS_WEB",
+"en":"Awake",
+"es":"Despierto",
+"createdAt":"2022-02-16 20:48:02",
+"updatedAt":"2022-02-16 20:48:02"
+},
+{ 
+"id":3805,
+"keyword":"SLEEP",
+"section":"WELLNESS_WEB",
+"en":"Sleep",
+"es":"Dormido",
+"createdAt":"2022-02-16 20:48:15",
+"updatedAt":"2022-02-16 20:48:15"
+},
+{ 
+"id":3806,
+"keyword":"DEEP_LIGHT",
+"section":"WELLNESS_WEB",
+"en":"Light Sleep",
+"es":"Sueño Ligero",
+"createdAt":"2022-02-16 23:21:05",
+"updatedAt":"2022-02-16 23:21:05"
+},
+{ 
+"id":3807,
+"keyword":"SYSTOLIC",
+"section":"WELLNESS_WEB",
+"en":"Systolic",
+"es":"Sistólica",
+"createdAt":"2022-02-16 23:21:35",
+"updatedAt":"2022-02-16 23:21:35"
+},
+{ 
+"id":3808,
+"keyword":"DIASTOLIC",
+"section":"WELLNESS_WEB",
+"en":"Diastolic",
+"es":"Diastólica",
+"createdAt":"2022-02-16 23:22:03",
+"updatedAt":"2022-02-16 23:22:03"
+},
+{ 
+"id":3809,
+"keyword":"MIN_VALUE",
+"section":"WELLNESS_WEB",
+"en":"Min Frequency",
+"es":"Frecuencia Minima",
+"createdAt":"2022-02-16 23:23:08",
+"updatedAt":"2022-02-16 23:23:08"
+},
+{ 
+"id":3810,
+"keyword":"MAX_VALUE",
+"section":"WELLNESS_WEB",
+"en":"Max Frequency",
+"es":"Frecuencia Máxima",
+"createdAt":"2022-02-16 23:23:59",
+"updatedAt":"2022-02-16 23:23:59"
+},
+{ 
+"id":3811,
+"keyword":"AVG_VALUE",
+"section":"WELLNESS_WEB",
+"en":"Average Freq",
+"es":"Frecuencia Promedio",
+"createdAt":"2022-02-16 23:24:36",
+"updatedAt":"2022-02-16 23:24:36"
+},
+{ 
+"id":3812,
+"keyword":"VALUE_REAL_TIME",
+"section":"WELLNESS_WEB",
+"en":"Last Freq",
+"es":"Ultima Frecuencia",
+"createdAt":"2022-02-16 23:25:14",
+"updatedAt":"2022-02-16 23:25:14"
+},
+{ 
+"id":3813,
+"keyword":"PHONE_NUMBER",
+"section":"WELLNESS_WEB",
+"en":"Phone Number",
+"es":"Número Telefónico",
+"createdAt":"2022-02-16 23:28:59",
+"updatedAt":"2022-02-16 23:28:59"
+},
+{ 
+"id":3814,
+"keyword":"MENU_CONNECT",
+"section":"WELLNESS_WEB",
+"en":"Connect",
+"es":"Conectar",
+"createdAt":"2022-02-16 23:29:47",
+"updatedAt":"2022-02-16 23:29:47"
+},
+{ 
+"id":3815,
+"keyword":"MENU_TIMELINE",
+"section":"WELLNESS_WEB",
+"en":"Timeline",
+"es":"Journey",
+"createdAt":"2022-02-16 23:31:36",
+"updatedAt":"2022-02-16 23:31:36"
+},
+{ 
+"id":3816,
+"keyword":"MENU_CONSULTATION",
+"section":"WELLNESS_WEB",
+"en":"Consult",
+"es":"Consultar",
+"createdAt":"2022-02-16 23:32:06",
+"updatedAt":"2022-02-16 23:32:06"
+},
+{ 
+"id":3817,
+"keyword":"MENU_SYMPTOM",
+"section":"WELLNESS_WEB",
+"en":"Check Symptoms",
+"es":"Triage AI",
+"createdAt":"2022-02-16 23:32:32",
+"updatedAt":"2022-02-16 23:32:32"
+},
+{ 
+"id":3820,
+"keyword":"TAB_CHAT",
+"section":"WELLNESS_WEB",
+"en":"Chat",
+"es":"Chat",
+"createdAt":"2022-02-17 12:19:02",
+"updatedAt":"2022-02-17 12:19:02"
+},
+{ 
+"id":3821,
+"keyword":"TAB_SMS",
+"section":"WELLNESS_WEB",
+"en":"SMS",
+"es":"SMS",
+"createdAt":"2022-02-17 12:19:19",
+"updatedAt":"2022-02-17 12:19:19"
+},
+{ 
+"id":3822,
+"keyword":"TAB_EMAIL",
+"section":"WELLNESS_WEB",
+"en":"E-mail",
+"es":"Correo Electrónico",
+"createdAt":"2022-02-17 12:19:45",
+"updatedAt":"2022-02-17 12:19:45"
+},
+{ 
+"id":3823,
+"keyword":"TAB_EMR_INFO",
+"section":"WELLNESS_WEB",
+"en":"Emergency Contact",
+"es":"Contacto Emergencia",
+"createdAt":"2022-02-17 12:20:07",
+"updatedAt":"2022-02-17 12:20:07"
+},
+{ 
+"id":3824,
+"keyword":"USER_EMR_INFO",
+"section":"WELLNESS_WEB",
+"en":"Contact Information",
+"es":"Información de Contacto",
+"createdAt":"2022-02-17 12:21:05",
+"updatedAt":"2022-02-17 12:21:05"
+},
+{ 
+"id":3825,
+"keyword":"EMAIL_ID",
+"section":"WELLNESS_WEB",
+"en":"E-mail",
+"es":"C. Electrónico",
+"createdAt":"2022-02-17 12:21:38",
+"updatedAt":"2022-02-17 12:21:38"
+},
+{ 
+"id":3826,
+"keyword":"USERS_POC",
+"section":"WELLNESS_WEB",
+"en":"Contact",
+"es":"Contacto",
+"createdAt":"2022-02-17 12:22:06",
+"updatedAt":"2022-02-17 12:22:06"
+},
+{ 
+"id":3827,
+"keyword":"ACTION_CALL",
+"section":"WELLNESS_WEB",
+"en":"Call",
+"es":"Llamar",
+"createdAt":"2022-02-17 12:22:31",
+"updatedAt":"2022-02-17 12:22:31"
+},
+{ 
+"id":3828,
+"keyword":"ACTION_EMAIL",
+"section":"WELLNESS_WEB",
+"en":"E-mail",
+"es":"C. Electrónico",
+"createdAt":"2022-02-17 12:22:56",
+"updatedAt":"2022-02-17 12:22:56"
+},
+{ 
+"id":3829,
+"keyword":"BTN_SEND",
+"section":"WELLNESS_WEB",
+"en":"Send",
+"es":"Enviar",
+"createdAt":"2022-02-17 12:23:26",
+"updatedAt":"2022-02-17 12:23:26"
+},
+{ 
+"id":3830,
+"keyword":"MENU_STATUS",
+"section":"WELLNESS_WEB",
+"en":"Change Status",
+"es":"Cambiar Estado",
+"createdAt":"2022-02-17 12:24:14",
+"updatedAt":"2022-02-17 12:24:14"
+},
+{ 
+"id":3831,
+"keyword":"GO_TO_CLINIC",
+"section":"WELLNESS_WEB",
+"en":"Go to Clinic",
+"es":"Ir a Clinica",
+"createdAt":"2022-02-17 12:24:49",
+"updatedAt":"2022-02-17 12:24:49"
+},
+{ 
+"id":3832,
+"keyword":"LOGOUT",
+"section":"WELLNESS_WEB",
+"en":"Logout",
+"es":"Cerrar Sesión",
+"createdAt":"2022-02-17 12:25:32",
+"updatedAt":"2022-02-17 12:25:32"
+},
+{ 
+"id":3833,
+"keyword":"OVERWEIGHT",
+"section":"WELLNESS_WEB",
+"en":"Overweight",
+"es":"Sobrepeso",
+"createdAt":"2022-02-17 12:26:20",
+"updatedAt":"2022-02-17 12:27:42"
+},
+{ 
+"id":3834,
+"keyword":"OVER_WEIGHT",
+"section":"WELLNESS_WEB",
+"en":"Overweight",
+"es":"Sobrepeso",
+"createdAt":"2022-02-17 12:26:50",
+"updatedAt":"2022-02-17 12:27:51"
+},
+{ 
+"id":3835,
+"keyword":"OBESE",
+"section":"WELLNESS_WEB",
+"en":"Obese",
+"es":"Obeso",
+"createdAt":"2022-02-17 12:27:19",
+"updatedAt":"2022-02-17 12:27:19"
+},
+{ 
+"id":3836,
+"keyword":"FIT",
+"section":"WELLNESS_WEB",
+"en":"Fit",
+"es":"Fit",
+"createdAt":"2022-02-17 12:28:09",
+"updatedAt":"2022-02-17 12:28:09"
+},
+{ 
+"id":3837,
+"keyword":"AVOBE_AVARAGE",
+"section":"WELLNESS_WEB",
+"en":"Above Average",
+"es":"Encima Promedio",
+"createdAt":"2022-02-17 12:28:49",
+"updatedAt":"2022-02-17 12:28:49"
+},
+{ 
+"id":3838,
+"keyword":"BELOW_AVARAGE",
+"section":"WELLNESS_WEB",
+"en":"Below Average",
+"es":"Debajo Promedio",
+"createdAt":"2022-02-17 12:29:05",
+"updatedAt":"2022-02-17 12:29:05"
+},
+{ 
+"id":3839,
+"keyword":"ABOVE_AVARAGE",
+"section":"WELLNESS_WEB",
+"en":"Above Average",
+"es":"Encima Promedio",
+"createdAt":"2022-02-17 12:29:34",
+"updatedAt":"2022-02-17 12:29:34"
+}]
